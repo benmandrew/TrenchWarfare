@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: df1be8f8cd9b8e84da7ef43959494b90
+timeCreated: 1502379306
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - soldierPrefab: {fileID: 1981987225629014, guid: 2fa35a695ac24824fa6a9d693011b286,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

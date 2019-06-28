@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: f086d59dcaef8c949abf6201fbcae71d
+timeCreated: 1506721863
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MenuSpriteSheet_0
+    21300002: MenuSpriteSheet_1
+    21300004: MenuSpriteSheet_2
+    21300006: MenuSpriteSheet_3
+    21300008: MenuSpriteSheet_4
+    21300010: MenuSpriteSheet_5
+    21300012: MenuSpriteSheet_6
+    21300014: MenuSpriteSheet_7
+    21300016: MenuSpriteSheet_8
+    21300018: MenuSpriteSheet_9
+    21300020: MenuSpriteSheet_10
+    21300022: MenuSpriteSheet_11
+    21300024: MenuSpriteSheet_12
+    21300026: MenuSpriteSheet_13
+    21300028: MenuSpriteSheet_14
+    21300030: MenuSpriteSheet_15
+    21300032: MenuSpriteSheet_16
+    21300034: MenuSpriteSheet_17
+    21300036: MenuSpriteSheet_18
+    21300038: MenuSpriteSheet_19
+    21300040: MenuSpriteSheet_20
+    21300042: MenuSpriteSheet_21
+    21300044: MenuSpriteSheet_22
+    21300046: MenuSpriteSheet_23
+    21300048: MenuSpriteSheet_24
+    21300050: MenuSpriteSheet_25
+    21300052: MenuSpriteSheet_26
+    21300054: MenuSpriteSheet_27
+    21300056: MenuSpriteSheet_28
+    21300058: MenuSpriteSheet_29
+    21300060: MenuSpriteSheet_30
+    21300062: MenuSpriteSheet_31
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MenuSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1159
+        width: 508
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 247
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1020
+        width: 247
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1062
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 880
+        width: 247
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 880
+        width: 247
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 964
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 789
+        width: 508
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 867
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 698
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 698
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 698
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 774
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 607
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 607
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 607
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 677
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 516
+        width: 508
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 579
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 425
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 425
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 425
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 488
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 334
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 334
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 334
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 243
+        width: 508
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 182
+        width: 548
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 247
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 91
+        width: 247
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 247
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MenuSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 247
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

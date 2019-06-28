@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 404f824f4cbb7014995ea413adbf79d0
+timeCreated: 1502449511
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - canvas: {fileID: 223844446732231022, guid: 1ac9283457ffc6a43965c1f24228189f, type: 2}
+  - trenchButtonPrefab: {fileID: 1768021702049372, guid: 4c414aeaf7ebd194d805a060b89c4433,
+      type: 2}
+  - button: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: f33db0ca656cd574f8beb688cea613b3
+timeCreated: 1508278240
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: buttonSpriteSheet_0
+    21300002: buttonSpriteSheet_1
+    21300004: buttonSpriteSheet_2
+    21300006: buttonSpriteSheet_3
+    21300008: buttonSpriteSheet_4
+    21300010: buttonSpriteSheet_5
+    21300012: buttonSpriteSheet_6
+    21300014: buttonSpriteSheet_7
+    21300016: buttonSpriteSheet_8
+    21300018: buttonSpriteSheet_9
+    21300020: buttonSpriteSheet_10
+    21300022: buttonSpriteSheet_11
+    21300024: buttonSpriteSheet_12
+    21300026: buttonSpriteSheet_13
+    21300028: buttonSpriteSheet_14
+    21300030: buttonSpriteSheet_15
+    21300032: buttonSpriteSheet_16
+    21300034: buttonSpriteSheet_17
+    21300036: buttonSpriteSheet_18
+    21300038: buttonSpriteSheet_19
+    21300040: buttonSpriteSheet_20
+    21300042: buttonSpriteSheet_21
+    21300044: buttonSpriteSheet_22
+    21300046: buttonSpriteSheet_23
+    21300048: buttonSpriteSheet_24
+    21300050: buttonSpriteSheet_25
+    21300052: buttonSpriteSheet_26
+    21300054: buttonSpriteSheet_27
+    21300056: buttonSpriteSheet_28
+    21300058: buttonSpriteSheet_29
+    21300060: buttonSpriteSheet_30
+    21300062: buttonSpriteSheet_31
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buttonSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 556
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 556
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 556
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 556
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 556
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 343
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 343
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 344
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 344
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 263
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 263
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 313
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 238
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 238
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 147
+        width: 250
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 283
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 283
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 283
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 283
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 283
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 283
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 178
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 90
+        width: 210
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 65
+        width: 210
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buttonSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 0
+        width: 178
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
